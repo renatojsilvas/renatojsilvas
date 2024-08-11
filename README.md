@@ -1,10 +1,5 @@
-- Hi, I’m Renato José da Silva, software developer since 2007. Nowadays, I've been using C#. I started my career programming for 8051 microcontrollers in pure C and assembly language.
-- I’m interested in solving problems as best as I can. I have a particular interest in financial applications.
-- I have great experience in C#, OOP, SOLID and design patterns.
-- Sometimes I use Python in order to build some interesting projects.
-- I’m have interest on functional programming. The language I chose was Clojure.
-<!---
+I am a Software Engineer with over 15 years of experience, including the last 2 years in the financial sector, where I have specialized in developing and maintaining high-performance trading tools and fixed income negotiation systems. In the financial industry, this experience has involved optimizing backend processes for order execution and market data ingestion, ensuring reliability, high availability, and low latency in trading operations.
 
-renatojsilvas/renatojsilvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a strong foundation in Electronic Engineering, I approach technical challenges practically, focusing on optimizing system performance and implementing solutions, including mathematical algorithms, that enhance reliability and scalability.
+
+Dedicated to optimizing financial systems, driving process improvements, and applying agile practices to deliver robust, scalable solutions. My experience in the financial sector is complemented by a background in embedded systems, adding a unique depth to the skill set and approach to problem-solving.
